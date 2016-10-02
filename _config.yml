@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Subhajit Goswami"
   avatar           : "my_photo.JPG"
-  bio              : "I am a Ph.D. student."
-  location         : "Chicago, Illinois, United States"
+  bio              :
+  location         : "Chicago"
   email            : "sgoswami@galton.uchicago.edu"
   uri              :
   bitbucket        :
