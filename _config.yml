@@ -13,8 +13,8 @@ name                     : "Subhajit Goswami"
 description              : "Me and my research."
 url                      : https://subhajit88.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /minimal-mistakes # the subpath of your site, e.g. "/blog"
-repository               : /minimal-mistakes # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : subhajit88/minimal-mistakes # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Subhajit Goswami"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
