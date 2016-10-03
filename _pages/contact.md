@@ -2,7 +2,7 @@
 title: "Contact Information"
 layout: single
 author_profile: true
-permalink: /contact.html.
+permalink: /contact.html
 
 ---
 
