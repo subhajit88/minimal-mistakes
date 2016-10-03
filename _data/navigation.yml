@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Contact"
-    url: /_pages/contact/ #https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+    url: /contact/ #https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
   - title: "Teaching"
     url: /
