@@ -4,7 +4,7 @@ main:
     url: /
     
   - title: "Teaching"
-    url: "/teaching/"  
+    url: /teaching/ 
     
   - title: "Contact"
     url: /contact/ #https://mmistakes.github.io/minimal-mistakes/docs/navigation/
