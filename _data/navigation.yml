@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Contact"
-    url: /contact/ #https://mmistakes.github.io/minimal-mistakes/docs/navigation/
-
-  - title: "Teaching"
-    url: /
-  
   - title: "Publications"
     url: /
+    
+  - title: "Teaching"
+    url: "/teaching/"  
+    
+  - title: "Contact"
+    url: /contact/ #https://mmistakes.github.io/minimal-mistakes/docs/navigation/
