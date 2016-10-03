@@ -1,9 +1,9 @@
 ---
-title: "Page Not Found"
+title: "Contact Information"
 layout: single
-excerpt: "Page not found. Your pixels are in another canvas."
-sitemap: false
-permalink: /contact.html
+author_profile: true
+permalink: /contact.html.
+
 ---
 
 Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below.
